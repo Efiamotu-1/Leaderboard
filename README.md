@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Habeeb Musa Efiamotu**
 
-- GitHub: [@rega1237](https://github.com/Efiamotu-1)
+- GitHub: [@Efiamotu-1](https://github.com/Efiamotu-1)
 
 ## 🤝 Contributing
 
