@@ -4,7 +4,7 @@
 
 # Leader board
 
-In this project I build a application called leader board which displays scores submitted by different players. It also allows you to submit your score.
+In this project I built an application called leaderboard which displays scores submitted by different players by clicking the refesh button. Scores are ranked in order of highest to lowest It also allows you to submit your score.
 
 ## Built With
 
@@ -12,6 +12,7 @@ In this project I build a application called leader board which displays scores 
 - HTML, CSS, Javascript
 - Git
 - Webpack
+- Es6 modules
 
 ## Getting Started
 
@@ -33,7 +34,10 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Habeeb Musa Efiamotu**
 
-- GitHub: [@Efiamotu-1](https://github.com/Efiamotu-1)
+- GitHub: [@githubhandle](https://github.com/Efiamotu-1)
+- Twitter: [@twitterhandle](https://twitter.com/EFYAMOTU)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/musa-habeeb/)
+
 
 ## 🤝 Contributing
 

@@ -15,6 +15,7 @@
 const displayScores = (data) => {
   const list = document.querySelector('.scoresheet');
   list.innerHTML = '';
+  data = data.sort((a, b) => b.score - a.score);
   data.map((score) => {
     const li = document.createElement('li');
     li.textContent = `${score.user} : ${score.score}`;
@@ -47,5 +48,7 @@ export const getScores = async () => {
   const gameId = 'nCCQtzbyf726SO7fi4gJ';
   const response = await fetch(`${url}${gameId}/scores/`);
   const data = await response.json();
-  displayScores(data.result);
+  if (response.ok) {
+    displayScores(data.result);
+  }
 };
