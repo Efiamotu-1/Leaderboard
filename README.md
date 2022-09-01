@@ -6,6 +6,9 @@
 
 In this project I built an application called leaderboard which displays scores submitted by different players by clicking the refesh button. Scores are ranked in order of highest to lowest It also allows you to submit your score.
 
+## Live Demo
+[Link to live demo](https://efiamotu-1.github.io/Leaderboard/dist/)
+
 ## Built With
 
 - Major languages
